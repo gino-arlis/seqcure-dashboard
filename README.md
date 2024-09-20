@@ -5,7 +5,7 @@
 * The new file structure is an indication of how the repo should be organized, so the structure can change by changing the names of the folder or adding new ones as long as the principle of partitioning the repo in an organized way is preserved
 * Of course as a side effect of this reorg nothing works as of today
 * I (gino) will be concentrating on the dashboard but the main effort will probably be on making the code work again 
-* When you work on teh repo you should do it from your own branch and when code is tested and you fill confident let's work on merging to the development branch
+* When you work on the repo you should do it from your own branch and when code is tested and you fill confident let's work on merging to the development branch
 * Merging to the master branch should be very carefully done,. since we envision the dashboard eventually reaching other people and this would be the visible branch
 
 ## Goals
