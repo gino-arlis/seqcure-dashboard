@@ -1,0 +1,4 @@
+Current Time,Job ID,Circuit,Target,Number of Qubits,Submission Time,Submission Status,Average Queue Time
+2024-07-01 16:00:18.645324+00:00,027df3f0-37c3-11ef-940c-6045bdf05ebd,QFT,quantinuum.qpu.h1-1,8,"(datetime.datetime(2024, 7, 1, 16, 0, 18, 542131, tzinfo=<FixedOffset '+00:00'>),)",Submitted,0
+2024-07-01 17:00:18.253415+00:00,641115cc-37cb-11ef-a08e-6045bdf05ebd,QFT,quantinuum.qpu.h1-1,10,"(datetime.datetime(2024, 7, 1, 17, 0, 18, 163439, tzinfo=<FixedOffset '+00:00'>),)",Submitted,0
+2024-07-01 18:00:17.295203+00:00,c539c526-37d3-11ef-be3d-6045bdf05ebd,QFT,quantinuum.qpu.h1-1,12,"(datetime.datetime(2024, 7, 1, 18, 0, 17, 204521, tzinfo=<FixedOffset '+00:00'>),)",Submitted,0

@@ -1,0 +1,2 @@
+Current Time,Job ID,Circuit,Target,Number of Qubits,Submission Time,Submission Status,Queue Depth,Position in Queue
+2024-07-01 18:03:32.646202+00:00,arn:aws:braket:us-east-1:992382759470:quantum-task/e705ca31-00f3-4d63-ba96-f91438b8de40,QFT,dm1,3,2024-07-01 18:03:32.079127,Submitted,"{<QueueType.NORMAL: 'Normal'>: '0', <QueueType.PRIORITY: 'Priority'>: '0'}",1

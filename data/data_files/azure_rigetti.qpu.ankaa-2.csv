@@ -1,0 +1,13 @@
+Current Time,Job ID,Circuit,Target,Number of Qubits,Submission Time,Submission Status,Average Queue Time
+2024-07-01 16:00:18.657078+00:00,02760596-37c3-11ef-9bcd-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,8,"(datetime.datetime(2024, 7, 1, 16, 0, 18, 556338, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:00:17.690838+00:00,63a483a8-37cb-11ef-9ea6-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,10,"(datetime.datetime(2024, 7, 1, 17, 0, 17, 603719, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:21:13.735041+00:00,50701c0e-37ce-11ef-96eb-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,3,"(datetime.datetime(2024, 7, 1, 17, 21, 13, 650407, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:21:32.549181+00:00,5bf937ea-37ce-11ef-80a0-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,3,"(datetime.datetime(2024, 7, 1, 17, 21, 32, 472012, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:21:45.635810+00:00,63df4e68-37ce-11ef-85ac-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,3,"(datetime.datetime(2024, 7, 1, 17, 21, 45, 548450, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:22:05.060837+00:00,6f62394e-37ce-11ef-894b-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,3,"(datetime.datetime(2024, 7, 1, 17, 22, 4, 958780, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:24:41.968067+00:00,cd228728-37ce-11ef-92b9-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,3,"(datetime.datetime(2024, 7, 1, 17, 24, 41, 878079, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:25:11.736905+00:00,dee4b184-37ce-11ef-bd2b-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,3,"(datetime.datetime(2024, 7, 1, 17, 25, 11, 660424, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:26:05.985162+00:00,ff36468c-37ce-11ef-b73c-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,3,"(datetime.datetime(2024, 7, 1, 17, 26, 5, 890371, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:26:53.960527+00:00,1b15b338-37cf-11ef-bba0-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,3,"(datetime.datetime(2024, 7, 1, 17, 26, 53, 878353, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 17:30:00.410497+00:00,8aefcf86-37cf-11ef-88a7-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,3,"(datetime.datetime(2024, 7, 1, 17, 30, 0, 326358, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5
+2024-07-01 18:00:17.819005+00:00,c540563e-37d3-11ef-84ab-6045bdf05ebd,QFT,rigetti.qpu.ankaa-2,12,"(datetime.datetime(2024, 7, 1, 18, 0, 17, 741845, tzinfo=<FixedOffset '+00:00'>),)",Submitted,5

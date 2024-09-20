@@ -1,0 +1,3 @@
+2024-07-01 17:22:51.969467+00:00 name 'display' is not defined 
+2024-07-01 17:23:18.893423+00:00 'Invalid output type txt selected. The only valid choices are text, latex, latex_source, and mpl' 
+2024-07-01 17:23:51.828294+00:00 name 'display' is not defined 
